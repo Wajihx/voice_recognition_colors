@@ -11,6 +11,7 @@ This is a simple voice recognition project that allows you to control colored la
 - Labels for each lamp (e.g., "Red Lamp")
 
 
+--- 
 
 
 1. Clone the Project
